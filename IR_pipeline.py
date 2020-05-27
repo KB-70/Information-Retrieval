@@ -1,4 +1,4 @@
-# IR Assignment by K'Ci Beckford (kb16315) & Hope Alexander (ha16593)
+# IR Assignment by K'Ci Beckford (kb16315)
 
 import nltk
 import requests
